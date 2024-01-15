@@ -12,8 +12,8 @@ To run the benchmark you need truvari to be installed on the system
  truvari bench   -b  TruthSet.OxO.vcf.gz  -c <test vcf>  --includebed ARS-UCD1.2_notinalldifficultregions.bed.gz -o truvari_final_outputs/OxO_{1} --passonly -r 2000 -C 3000  --reference ARS-UCD1.2_Btau5.0.1Y.fa
 ```
 
-## Scripts and Intermediate files
-Scripts used to generate the benchmark and the high confidence regions are available at scripts/. Also, Intermediate files are uploaded to the repo under Intermediate_Files/
+## Scripts
+Scripts used to generate the benchmark and the high confidence regions are available at scripts/.
 
 
 
